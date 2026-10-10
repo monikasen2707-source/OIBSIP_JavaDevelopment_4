@@ -75,6 +75,6 @@ Add a question navigator panel and a "mark for review" option
 Add an admin screen to create exams and view all results
 Author
 
-Your Name · LinkedIn · GitHub
+Monika S · www.linkedin.com/in/monika-s-54596339a · https://github.com/monikasen2707-source
 
 Completed as part of the Oasis Infobyte Summer Internship Program (OIBSIP).
