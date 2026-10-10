@@ -58,13 +58,9 @@ OIBSIP_JavaDevelopment_Task4/
     ├── 02-profile.png
     ├── 03-exam.png
     └── 04-result.png
-Screenshots
-<!-- Add your screenshots to the screenshots/ folder, then keep these lines -->
-
-Show Image Show Image Show Image Show Image
 
 Demo Video
-<!-- Replace with your YouTube / LinkedIn link -->
+https://lnkd.in/p/gXtaNMFp
 
 Watch the demo
 
